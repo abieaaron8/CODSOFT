@@ -9,7 +9,10 @@ A Contact Book application developed using Python.
 - Search contacts
 - Update contacts
 - Delete contacts
-- Store name, phone, email and address
+- Duplicate phone number detection
+- Contact statistics
+- Automatic saving using JSON
+- Automatic loading on startup
 
 ## Technologies Used
 
