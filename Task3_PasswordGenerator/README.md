@@ -4,10 +4,14 @@ A GUI-based password generator developed using Python and Tkinter.
 
 ## Features
 
+## Features
+
 - Custom password length
 - Random password generation
-- Letters, numbers and symbols
-- User-friendly GUI
+- Password strength indicator
+- Copy password to clipboard
+- Error handling
+- GUI interface using Tkinter
 
 ## Technologies Used
 
