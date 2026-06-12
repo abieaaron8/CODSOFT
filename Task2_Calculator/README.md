@@ -1,14 +1,19 @@
 # Task 2 - Calculator
 
-A simple calculator application built using Python.
+A GUI-based calculator application developed using Python and Tkinter.
 
 ## Features
+
 - Addition
 - Subtraction
 - Multiplication
 - Division
-- Division by zero handling
-- Input validation
+- Decimal calculations
+- Clear button
+- Error handling
+- Graphical User Interface (GUI)
 
 ## Technologies Used
+
 - Python 3
+- Tkinter
