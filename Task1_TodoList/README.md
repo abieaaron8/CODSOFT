@@ -1,12 +1,15 @@
-# Task 1 - To Do List
+# Task 1 - To-Do List
 
-A simple To Do List application built using Python.
+A command-line To-Do List application built using Python.
 
 ## Features
-- Add tasks
-- View tasks
-- Update tasks
-- Delete tasks
+- View Tasks
+- Add Tasks
+- Update Tasks
+- Mark Tasks as Completed
+- Delete Tasks
+- Task Summary
+- Input Validation
 
 ## Technologies Used
 - Python 3
