@@ -4,8 +4,6 @@ A GUI-based password generator developed using Python and Tkinter.
 
 ## Features
 
-## Features
-
 - Custom password length
 - Random password generation
 - Password strength indicator
